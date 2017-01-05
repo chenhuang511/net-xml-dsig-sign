@@ -1,0 +1,6 @@
+D:\10-SignServer\0-NetPDFOfficeLib\PDFSigningLib\TestXMLDSig\bin\Debug\TestXMLDSig.exe
+D:\10-SignServer\0-NetPDFOfficeLib\PDFSigningLib\TestXMLDSig\bin\Debug\TestXMLDSig.pdb
+D:\10-SignServer\0-NetPDFOfficeLib\PDFSigningLib\TestXMLDSig\obj\Debug\TestXMLDSig.exe
+D:\10-SignServer\0-NetPDFOfficeLib\PDFSigningLib\TestXMLDSig\obj\Debug\TestXMLDSig.pdb
+D:\10-SignServer\0-NetPDFOfficeLib\PDFSigningLib\TestXMLDSig\bin\Debug\SD.Ivan.Signning.dll
+D:\10-SignServer\0-NetPDFOfficeLib\PDFSigningLib\TestXMLDSig\obj\Debug\TestXMLDSig.csprojResolveAssemblyReference.cache
